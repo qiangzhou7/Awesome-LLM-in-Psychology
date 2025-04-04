@@ -1,4 +1,4 @@
-# 🧠✨ Awesome LLM in Psychology
+# 🤖+🧠=✨ Awesome LLM in Psychology
 
 > _"When Freud meets GPT... magic happens."_  
 > A curated list of awesome projects, papers, tools, and thoughts at the fascinating crossroads of **Large Language Models (LLMs)** and **Psychology**.
