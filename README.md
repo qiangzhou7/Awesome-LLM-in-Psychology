@@ -20,11 +20,10 @@ If you’ve ever asked:
 
 ## 🧭 Directory
 
-### 🗂️ Survey Papers
+### 📚 Survey Papers
 - **Using large language models in psychology**, 2023.11, [[paper]](https://static1.squarespace.com/static/53d29678e4b04e06965e9423/t/6566e06ac95b0b61f8810a99/1701240942374/2023+--+LLMs+psychology.pdf)
 - **Can Large Language Models Transform Computational Social Science?**, 2023.04, [[paper]](https://arxiv.org/pdf/2305.03514)
 
-Using large language models in psychology
 
 ### 🧪 Research Papers
 > Where psychology meets pretraining.
