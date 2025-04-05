@@ -42,10 +42,7 @@ If you’ve ever asked:
 ### 🛠️ Datasets & Benchmarks
 > You can’t study minds without good data.
 
-- 🗂️ Emotion-labeled datasets adapted for LLMs  
-- 📊 Personality and identity benchmarks  
-- 🧩 ToM (Theory of Mind) evaluation datasets  
-- 📚 Prompt collections rooted in psychological principles
+- **The PRISM Alignment Project**, 2024.12, [[Dataset]](https://github.com/HannahKirk/prism-alignment)
 
 ### 🤖 Cool Projects & Tools
 > LLMs with feelings? Almost.
