@@ -38,7 +38,7 @@ If you’ve ever asked:
 ![Post-training](https://github.com/user-attachments/assets/766fd9c5-983e-4700-9fa2-85f8aa0909df)
 
 - **Direct Language Model Alignment from Online AI Feedback**, 2024.02, [[paper]](https://arxiv.org/pdf/2402.04792)
-
+- **Crossing the Reward Bridge:Expanding RL with Verifiable Rewards Across Diverse Domains**, 2025.04, [[paper]](https://arxiv.org/pdf/2503.23829)
 ### 🛠️ Datasets & Benchmarks
 > You can’t study minds without good data.
 
