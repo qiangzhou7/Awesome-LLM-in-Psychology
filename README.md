@@ -34,6 +34,9 @@ If you’ve ever asked:
 - 🏥 Clinical applications (e.g., therapy bots, mental health screening)  
 - 🎭 LLMs simulating human biases, heuristics, and fallacies
 
+> RLHF in Psychology
+- **Direct Language Model Alignment from Online AI Feedback**, 2024.02, [[paper]](https://arxiv.org/pdf/2402.04792)
+
 ### 🛠️ Datasets & Benchmarks
 > You can’t study minds without good data.
 
