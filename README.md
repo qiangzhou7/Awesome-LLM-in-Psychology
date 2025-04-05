@@ -35,6 +35,8 @@ If you’ve ever asked:
 - 🎭 LLMs simulating human biases, heuristics, and fallacies
 
 > Teaching LLMs to Be Good Citizens: RLHF
+![Post-training](https://github.com/user-attachments/assets/766fd9c5-983e-4700-9fa2-85f8aa0909df)
+
 - **Direct Language Model Alignment from Online AI Feedback**, 2024.02, [[paper]](https://arxiv.org/pdf/2402.04792)
 
 ### 🛠️ Datasets & Benchmarks
