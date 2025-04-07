@@ -41,7 +41,7 @@ If you’ve ever asked:
 - **Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains**, 2025.04, [[Paper]](https://arxiv.org/pdf/2503.23829)
 ### 🛠️ Datasets & Benchmarks
 > You can’t study minds without good data.
-- **CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts**, 2022.07, [[Paper](https://arxiv.org/pdf/2207.04674), [[Dataset]](https://github.com/drmuskangarg/CAMS)
+- **CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts**, 2022.07, [[Paper]](https://arxiv.org/pdf/2207.04674), [[Dataset]](https://github.com/drmuskangarg/CAMS)
 - **The PRISM Alignment Project**, 2024.12, [[Dataset]](https://github.com/HannahKirk/prism-alignment)
 
 ### 🤖 Cool Projects & Tools
