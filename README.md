@@ -28,19 +28,16 @@ If you’ve ever asked:
 ### 🧪 Research Papers
 > Where psychology meets pretraining.
 
-- 🧬 Cognitive modeling with LLMs  
-- 🧠 Theory of Mind & mental state reasoning  
-- 🗣️ Language, personality, and identity inference  
-- 🏥 Clinical applications (e.g., therapy bots, mental health screening)  
-- 🎭 LLMs simulating human biases, heuristics, and fallacies
 
 > Teaching LLMs to Be Good Citizens: RLHF
 ![Post-training](https://github.com/user-attachments/assets/766fd9c5-983e-4700-9fa2-85f8aa0909df)
 
 - **Direct Language Model Alignment from Online AI Feedback**, 2024.02, [[Paper]](https://arxiv.org/pdf/2402.04792)
 - **A Survey on Post-training of Large Language Models**, 2025.03, [[Paper]](https://arxiv.org/pdf/2503.06072)
-- **Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains**, 2025.04, [[Paper]](https://arxiv.org/pdf/2503.23829)
+- **Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains**, 2025.04, [[Paper]](https://arxiv.org/pdf/2303.16634)
 
+> LLMs act as reference-free metrics for NLG evaluation.
+- **G-EVAL: NLG Evaluation using GPT-4 with Better Human Alignment**, 2023.05, [[Paper]](https://arxiv.org/pdf/2503.06072)
 - 
 ### 🛠️ Datasets & Benchmarks
 > You can’t study minds without good data.
